@@ -199,6 +199,10 @@ SOFTWARE.
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=Thanks%20For%20Viewing&fontSize=45&animation=twinkling&fontAlignY=70&descAlignY=45&descAlign=62)
 
+<p align=center>
+ <h1>Make Your Contribution</h1>
+ </p>
+
 <img src="footer-illustration.webp"/>
 
 
