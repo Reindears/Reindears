@@ -199,7 +199,7 @@ SOFTWARE.
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=Thanks%20For%20Viewing&fontSize=45&animation=twinkling&fontAlignY=70&descAlignY=45&descAlign=62)
 
-<img src="https://raw.githubusercontent.com/Walterxrobot/Walterxrobot/main/footer-illustration.webp"/>
+<img src="footer-illustration.webp"/>
 
 
 <!--End Of Readme-->
