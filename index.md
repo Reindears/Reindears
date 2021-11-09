@@ -124,62 +124,6 @@
 </p>
 <hr>
 
-<img align='right' src="wlt.svg" width="550">
-<img align='right' src="ss.svg" width="550">
-
-
-
-
-  <details>
-  <summary><b>Credits of my github profile page</b></summary>
- 
-- Walter(Meh)
- 
-- Rahul Jain
- 
-- Ye Chan Kang
- 
-- Anuraghaza
-
-</details>
-
-
-<details>
-  <summary><b>License of my profile.</b></summary>
- 
- <br>
- 
-MIT License
-
-Copyright (c) 2021 Walter
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-</details>
-<details>
- <summary><b>Activity Metrics</b></summary>
- <br>
- <p align="left"> <a href="https://github.com/walterxrobot"><img src="https://metrics.lecoq.io/walterxrobot?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta" alt="walterxrobot" /></a> </p>
-
- </details>
- 
- <hr>
  
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
