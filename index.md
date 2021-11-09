@@ -219,14 +219,6 @@ SOFTWARE.
  
  <hr>
  
- **I'm a Night 🦉** 
-```text
-🌞 Morning    67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.14% 
-🌆 Daytime    132 commits    ██████░░░░░░░░░░░░░░░░░░░   25.88% 
-🌃 Evening    157 commits    ███████░░░░░░░░░░░░░░░░░░   30.78% 
-🌙 Night      154 commits    ███████░░░░░░░░░░░░░░░░░░   30.2%
-```
-<hr>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -238,6 +230,5 @@ SOFTWARE.
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=Thanks%20For%20Viewing&fontSize=45&animation=twinkling&fontAlignY=70&descAlignY=45&descAlign=62)
 
 <!--End Of Readme-->
