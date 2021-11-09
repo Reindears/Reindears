@@ -194,9 +194,10 @@ SOFTWARE.
 <br>
 
 <p align=center><b>Made With ❤️ Walter © Copyright 2021</b></p>
+<hr>
 
 
-
+<img src="https://raw.githubusercontent.com/Walterxrobot/Walterxrobot/main/footer-illustration.webp"/>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=Thanks%20For%20Viewing&fontSize=45&animation=twinkling&fontAlignY=70&descAlignY=45&descAlign=62)
 
