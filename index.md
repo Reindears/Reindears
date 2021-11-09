@@ -30,7 +30,7 @@
 
 
 [![Website](https://raw.githubusercontent.com/walterxrobot/walterxrobot/master/soc/Hn.svg)](https://google.com/)
-<img align='right' src="jk.png" width="500">
+<img align='right' src="https://github.com/Walterxrobot/Walterxrobot/raw/main/jk.png" width="500">
 
 - 🔭 I’m currently working on **Telegram Bots**
 
