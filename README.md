@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20To%20My%20Profile%20Page&desc=Learning%20to%20program%20!%20Love%20to%20code&fontSize=45&animation=twinkling&fontAlignY=25&descAlignY=45&descAlign=62)
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="Img/Welcome.png" height="175px"/></a>
 <h1 align="center">Hi 👋, I'm Walter 🇮🇳</h1>
 <h3 align="center">"A passionate frontend future developer from India"</h3>
 <br>
