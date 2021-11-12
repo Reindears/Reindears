@@ -32,8 +32,6 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to create **Advanced Telegram Bots**
-
 - 🤝 I’m collaborated with **Darkz Bots**
 
 - 👨‍💻 All of my projects are available at [https://github.com/walterxrobot](https://github.com/walterxrobot)
