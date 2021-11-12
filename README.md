@@ -148,27 +148,27 @@
  
  <br>
  
-MIT License
+𝗠𝗜𝗧 𝗟𝗶𝗰𝗲𝗻𝘀𝗲
 
-Copyright (c) 2021 Walter
+𝗖𝗼𝗽𝘆𝗿𝗶𝗴𝗵𝘁 (𝗰) 𝟮𝟬𝟮𝟭 𝗪𝗮𝗹𝘁𝗲𝗿 𝗟𝗲𝘄𝗶𝗻
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+𝗣𝗲𝗿𝗺𝗶𝘀𝘀𝗶𝗼𝗻 𝗶𝘀 𝗵𝗲𝗿𝗲𝗯𝘆 𝗴𝗿𝗮𝗻𝘁𝗲𝗱, 𝗳𝗿𝗲𝗲 𝗼𝗳 𝗰𝗵𝗮𝗿𝗴𝗲, 𝘁𝗼 𝗮𝗻𝘆 𝗽𝗲𝗿𝘀𝗼𝗻 𝗼𝗯𝘁𝗮𝗶𝗻𝗶𝗻𝗴 𝗮 𝗰𝗼𝗽𝘆
+𝗼𝗳 𝘁𝗵𝗶𝘀 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗮𝗻𝗱 𝗮𝘀𝘀𝗼𝗰𝗶𝗮𝘁𝗲𝗱 𝗱𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗳𝗶𝗹𝗲𝘀 (𝘁𝗵𝗲 "𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲"), 𝘁𝗼 𝗱𝗲𝗮𝗹
+𝗶𝗻 𝘁𝗵𝗲 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝘄𝗶𝘁𝗵𝗼𝘂𝘁 𝗿𝗲𝘀𝘁𝗿𝗶𝗰𝘁𝗶𝗼𝗻, 𝗶𝗻𝗰𝗹𝘂𝗱𝗶𝗻𝗴 𝘄𝗶𝘁𝗵𝗼𝘂𝘁 𝗹𝗶𝗺𝗶𝘁𝗮𝘁𝗶𝗼𝗻 𝘁𝗵𝗲 𝗿𝗶𝗴𝗵𝘁𝘀
+𝘁𝗼 𝘂𝘀𝗲, 𝗰𝗼𝗽𝘆, 𝗺𝗼𝗱𝗶𝗳𝘆, 𝗺𝗲𝗿𝗴𝗲, 𝗽𝘂𝗯𝗹𝗶𝘀𝗵, 𝗱𝗶𝘀𝘁𝗿𝗶𝗯𝘂𝘁𝗲, 𝘀𝘂𝗯𝗹𝗶𝗰𝗲𝗻𝘀𝗲, 𝗮𝗻𝗱/𝗼𝗿 𝘀𝗲𝗹𝗹
+𝗰𝗼𝗽𝗶𝗲𝘀 𝗼𝗳 𝘁𝗵𝗲 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲, 𝗮𝗻𝗱 𝘁𝗼 𝗽𝗲𝗿𝗺𝗶𝘁 𝗽𝗲𝗿𝘀𝗼𝗻𝘀 𝘁𝗼 𝘄𝗵𝗼𝗺 𝘁𝗵𝗲 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗶𝘀
+𝗳𝘂𝗿𝗻𝗶𝘀𝗵𝗲𝗱 𝘁𝗼 𝗱𝗼 𝘀𝗼, 𝘀𝘂𝗯𝗷𝗲𝗰𝘁 𝘁𝗼 𝘁𝗵𝗲 𝗳𝗼𝗹𝗹𝗼𝘄𝗶𝗻𝗴 𝗰𝗼𝗻𝗱𝗶𝘁𝗶𝗼𝗻𝘀:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+𝗧𝗵𝗲 𝗮𝗯𝗼𝘃𝗲 𝗰𝗼𝗽𝘆𝗿𝗶𝗴𝗵𝘁 𝗻𝗼𝘁𝗶𝗰𝗲 𝗮𝗻𝗱 𝘁𝗵𝗶𝘀 𝗽𝗲𝗿𝗺𝗶𝘀𝘀𝗶𝗼𝗻 𝗻𝗼𝘁𝗶𝗰𝗲 𝘀𝗵𝗮𝗹𝗹 𝗯𝗲 𝗶𝗻𝗰𝗹𝘂𝗱𝗲𝗱 𝗶𝗻 𝗮𝗹𝗹
+𝗰𝗼𝗽𝗶𝗲𝘀 𝗼𝗿 𝘀𝘂𝗯𝘀𝘁𝗮𝗻𝘁𝗶𝗮𝗹 𝗽𝗼𝗿𝘁𝗶𝗼𝗻𝘀 𝗼𝗳 𝘁𝗵𝗲 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+𝗧𝗛𝗘 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗜𝗦 𝗣𝗥𝗢𝗩𝗜𝗗𝗘𝗗 "𝗔𝗦 𝗜𝗦", 𝗪𝗜𝗧𝗛𝗢𝗨𝗧 𝗪𝗔𝗥𝗥𝗔𝗡𝗧𝗬 𝗢𝗙 𝗔𝗡𝗬 𝗞𝗜𝗡𝗗, 𝗘𝗫𝗣𝗥𝗘𝗦𝗦 𝗢𝗥
+𝗜𝗠𝗣𝗟𝗜𝗘𝗗, 𝗜𝗡𝗖𝗟𝗨𝗗𝗜𝗡𝗚 𝗕𝗨𝗧 𝗡𝗢𝗧 𝗟𝗜𝗠𝗜𝗧𝗘𝗗 𝗧𝗢 𝗧𝗛𝗘 𝗪𝗔𝗥𝗥𝗔𝗡𝗧𝗜𝗘𝗦 𝗢𝗙 𝗠𝗘𝗥𝗖𝗛𝗔𝗡𝗧𝗔𝗕𝗜𝗟𝗜𝗧𝗬,
+𝗙𝗜𝗧𝗡𝗘𝗦𝗦 𝗙𝗢𝗥 𝗔 𝗣𝗔𝗥𝗧𝗜𝗖𝗨𝗟𝗔𝗥 𝗣𝗨𝗥𝗣𝗢𝗦𝗘 𝗔𝗡𝗗 𝗡𝗢𝗡𝗜𝗡𝗙𝗥𝗜𝗡𝗚𝗘𝗠𝗘𝗡𝗧. 𝗜𝗡 𝗡𝗢 𝗘𝗩𝗘𝗡𝗧 𝗦𝗛𝗔𝗟𝗟 𝗧𝗛𝗘
+𝗔𝗨𝗧𝗛𝗢𝗥𝗦 𝗢𝗥 𝗖𝗢𝗣𝗬𝗥𝗜𝗚𝗛𝗧 𝗛𝗢𝗟𝗗𝗘𝗥𝗦 𝗕𝗘 𝗟𝗜𝗔𝗕𝗟𝗘 𝗙𝗢𝗥 𝗔𝗡𝗬 𝗖𝗟𝗔𝗜𝗠, 𝗗𝗔𝗠𝗔𝗚𝗘𝗦 𝗢𝗥 𝗢𝗧𝗛𝗘𝗥
+𝗟𝗜𝗔𝗕𝗜𝗟𝗜𝗧𝗬, 𝗪𝗛𝗘𝗧𝗛𝗘𝗥 𝗜𝗡 𝗔𝗡 𝗔𝗖𝗧𝗜𝗢𝗡 𝗢𝗙 𝗖𝗢𝗡𝗧𝗥𝗔𝗖𝗧, 𝗧𝗢𝗥𝗧 𝗢𝗥 𝗢𝗧𝗛𝗘𝗥𝗪𝗜𝗦𝗘, 𝗔𝗥𝗜𝗦𝗜𝗡𝗚 𝗙𝗥𝗢𝗠,
+𝗢𝗨𝗧 𝗢𝗙 𝗢𝗥 𝗜𝗡 𝗖𝗢𝗡𝗡𝗘𝗖𝗧𝗜𝗢𝗡 𝗪𝗜𝗧𝗛 𝗧𝗛𝗘 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗢𝗥 𝗧𝗛𝗘 𝗨𝗦𝗘 𝗢𝗥 𝗢𝗧𝗛𝗘𝗥 𝗗𝗘𝗔𝗟𝗜𝗡𝗚𝗦 𝗜𝗡 𝗧𝗛𝗘
+𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘.
 
 </details>
 
