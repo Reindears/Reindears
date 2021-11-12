@@ -27,8 +27,8 @@
 <hr>
 
 
-[![Website](https://raw.githubusercontent.com/walterxrobot/walterxrobot/master/soc/Hn.svg)](https://google.com/)
-<img align='right' src="jk.png" width="500">
+[![Website](Img/About.svg)](https://google.com/)
+<img align='right' src="Img/Development.png" width="500">
 
 - 🔭 I’m currently working on **Telegram Bots**
 
@@ -122,8 +122,8 @@
 </p>
 <hr>
 
-<img align='right' src="wlt.svg" width="550">
-<img align='right' src="ss.svg" width="550">
+<img align='right' src="Img/Star.svg" width="550">
+<img align='right' src="Img/Marquee.svg" width="550">
 
 
 
