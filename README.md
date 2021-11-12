@@ -40,7 +40,7 @@
 
 - 🐱‍👤 Regularly make projects on Github
 
-- 📫 How to reach me **walter123@gmail.com**
+- 📫 How to reach me [Click Here](walterlewin@gmail.com)
 
 - 🐱‍🏍 Readme can be best viewed using **Dark mode**
 
