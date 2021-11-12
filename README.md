@@ -34,13 +34,15 @@
 
 - 🤝 I’m collaborated with **Darkz Bots**
 
-- 👨‍💻 All of my projects are available at [https://github.com/walterxrobot](https://github.com/walterxrobot)
+- 👨‍💻 All of my projects are available at [Here](https://github.com/walterxrobot)
 
 - 💬 Ask me about **Telegram, Bots, Python**
 
 - 🐱‍👤 Regularly make projects on Github
 
 - 📫 How to reach me **walter123@gmail.com**
+
+- 🐱‍🏍 Readme can be best viewed using **Dark mode**
 
 - ⚡ Fun fact **I love coding and programming**
 
