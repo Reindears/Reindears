@@ -71,12 +71,12 @@
 
 
 
-<br>
+
  
 <img width="49%" src="https://github-readme-stats.vercel.app/api?count_private=true&include_all_commits=true&username=walterxrobot&bg_color=30,000000,434343&title_color=fff&text_color=fff"/>
 <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=30,000000,434343&title_color=fff&text_color=fff"/>
 </div>
-<br>
+
 <hr>
 
 <!-- BLOG-POST-LIST:START -->
