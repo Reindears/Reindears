@@ -2,10 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20To%20My%20Profile%20Page&desc=Learning%20to%20program%20!%20Love%20to%20code&fontSize=45&animation=twinkling&fontAlignY=25&descAlignY=45&descAlign=62)
 <!-- Walter Guithub Profile @ Walterxrobot -->
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/nabilanavab/ilovepdf/issues/3) in [nabilanavab/ilovepdf](https://github.com/nabilanavab/ilovepdf)
-2. ❗️ Closed issue [#3](https://github.com/nabilanavab/ilovepdf/issues/3) in [nabilanavab/ilovepdf](https://github.com/nabilanavab/ilovepdf)
-3. 💪 Opened PR [#2](https://github.com/Walterxrobot/Walterxrobot/pull/2) in [Walterxrobot/Walterxrobot](https://github.com/Walterxrobot/Walterxrobot)
-<!--END_SECTION:activity-->
+
 <a href="#"><img width="100%" height="auto" src="Img/Welcome.png" height="175px"/></a>
 <!-- Walter Guithub Profile @ Walterxrobot -->
 <h1 align="center">Hi 👋, I'm Walter 🇮🇳 </h1>
