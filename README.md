@@ -1,6 +1,7 @@
 <!-- Walter Guithub Profile @ Walterxrobot -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20To%20My%20Profile%20Page&desc=Learning%20to%20program%20!%20Love%20to%20code&fontSize=45&animation=twinkling&fontAlignY=25&descAlignY=45&descAlign=62)
 <!-- Walter Guithub Profile @ Walterxrobot -->
+<!--START_SECTION:activity-->
 <a href="#"><img width="100%" height="auto" src="Img/Welcome.png" height="175px"/></a>
 <!-- Walter Guithub Profile @ Walterxrobot -->
 <h1 align="center">Hi 👋, I'm Walter 🇮🇳 </h1>
