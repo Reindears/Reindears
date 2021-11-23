@@ -1,0 +1,10 @@
+name: "Terminal 🚧"
+index: 2
+supports:
+  - user
+  - organization
+formats:
+  - svg
+  - png
+  - jpeg
+  - json
