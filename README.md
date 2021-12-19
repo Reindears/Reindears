@@ -8,7 +8,7 @@
 <!-- Walter Guithub Profile @ Walterxrobot -->
 <br>
 <!-- Walter Guithub Profile @ Walterxrobot -->
-<hr>
+
 
 <img width="55%" align="right" alt="Github" src="Img/Thank.svg" />
 <!-- Walter Guithub Profile @ Walterxrobot -->
