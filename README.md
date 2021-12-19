@@ -3,9 +3,7 @@
 <!-- Walter Guithub Profile @ Walterxrobot -->
 <!--START_SECTION:activity-->
 
-<a href="#"><img width="100%" height="auto" src="Img/Welcome.png" height="175px"/></a>
-<!-- Walter Guithub Profile @ Walterxrobot -->
-<h1 align="center">Hi 👋, I'm Walter 🇮🇳 </h1>
+
 <!-- Walter Guithub Profile @ Walterxrobot -->
 <!-- Walter Guithub Profile @ Walterxrobot -->
 <br>
