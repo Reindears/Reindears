@@ -10,7 +10,7 @@
 <!-- Walter Guithub Profile @ Walterxrobot -->
 
 
-<img width="55%" align="right" alt="Github" src="Img/Thank.svg" />
+<img width="55%" align="right" alt="Github" src="Walter.svg" />
 <!-- Walter Guithub Profile @ Walterxrobot -->
 <br>
 <!-- Walter Guithub Profile @ Walterxrobot -->
