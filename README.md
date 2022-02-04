@@ -2,6 +2,8 @@
 
 <!-- Walter Guithub Profile @ Walterxrobot -->
 
+<img width="15%" align="left" alt="Github" src="fg.svg" />
+<img width="15%" align="right" alt="Github" src="sg.svg" />
 
 <!-- Walter Guithub Profile @ Walterxrobot -->
 <!-- Walter Guithub Profile @ Walterxrobot -->
