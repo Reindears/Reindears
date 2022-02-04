@@ -14,20 +14,15 @@
 
 <!-- Walter Guithub Profile @ Walterxrobot -->
 
-<p align=left>
-⚡️ A Few Quick Facts
-  <br>
-🔭 I’m currently working on a PDF bot.
-  <br>
-🌱 Learning python, go, rust.
-    <br>
-💬 Ask me about telegram and python.
-    <br>
-👨‍💻 Some of my projects are available on Gitlab.
-    <br>
-🦹 Favourite super villain Reverse-flash.
-    <br>
-⚡ Fun fact: I take lot of Caffeine ☕</p>
+<h2>⚡️ A Few Quick Facts</h2>
+<ul>
+<li>🔭 I’m currently working on a <strong>PDF bot.</strong></li>
+<li>🌱 Learning <strong>python</strong>, <strong>go, rust</strong>.</li>
+<li>💬 Ask me about <strong>telegram and python</strong>.</li>
+<li>👨‍💻 Some of my <strong>projects</strong> are available on <a href="https://gitlab.com/alenpaul2001">Gitlab</a>.</li>
+<li>🦹 Favourite super villain <a href="https://en.wikipedia.org/wiki/Eobard_Thawne"><strong>Reverse-flash</strong></a>.</li>
+<li>⚡ Fun fact: I take lot of <strong>Caffeine ☕</strong>.</li>
+</ul>
 <!-- Walter Guithub Profile @ Walterxrobot -->
 <!-- Walter Guithub Profile @ Walterxrobot -->
 
